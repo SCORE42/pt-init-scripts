@@ -1,4 +1,4 @@
-==Install
+#Install
 
 <pre>
 <code>
