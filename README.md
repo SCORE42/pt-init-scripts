@@ -8,5 +8,6 @@
 
 # chkconfig pt-kill on
 # service pt-kill start
+# ps aux|grep pt-kill
 </code>
 </pre>
