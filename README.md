@@ -6,7 +6,7 @@
 # git clone https://github.com/panser/pt-init-scripts.git pt-init-scripts
 # ./pt-init-scripts/install.sh
 
-# chkconfig pt-kill on
+# update-rc.d pt-kill defaults
 # service pt-kill start
 # ps aux|grep pt-kill
 </code>
