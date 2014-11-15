@@ -6,5 +6,5 @@ echo ""
 mysql --defaults-extra-file=/root/.my.cnf -e "create database percona;"
 
 echo ""
-echo "chkconfig --list|grep "^pt""
-chkconfig --list|grep "^pt"
+echo "initctl list|grep "^pt""
+initctl list|grep "^pt"
